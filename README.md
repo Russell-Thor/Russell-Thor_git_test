@@ -5,3 +5,5 @@ Major: Microbiology and Molecular Genetics
 Senior
 From Michigan
 Strong (for an undergraduate) programming background since highschool
+
+Macias, Marco - maciasse@msu.edu
